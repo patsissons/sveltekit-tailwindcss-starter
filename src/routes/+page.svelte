@@ -16,7 +16,8 @@
         <pre class="whitespace-pre">pnpm create svelte@latest sveltekit-tailwindcss-starter
 cd sveltekit-tailwindcss-starter
 git init
-pnpx svelte-add@latest tailwindcss --tailwindcss-typography</pre>
+pnpx svelte-add@latest tailwindcss --tailwindcss-typography
+pnpm upgrade --latest</pre>
       </code>
       <p>
         Then edit your <code class="mx-1 rounded-sm bg-slate-900 px-1 py-0.5 text-slate-200"
